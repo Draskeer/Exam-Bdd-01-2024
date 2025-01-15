@@ -1,6 +1,6 @@
 # Projet base de données B3
 
-Ce projet consiste à créer une base de données pour un systeme de commande maquettes d'avions. Afin de verifier le bon fonctionnement et de mettre cette base de données en aplication, il nous faut aussi creer une simple api permettant de gerer la base de données.
+Ce projet consiste à créer une base de données pour un système de commande de maquettes d'avions. Afin de vérifier le bon fonctionnement et de mettre cette base de données en application, il nous faut aussi créer une simple API permettant de gérer la base de données.
 
 L'api doit permettre: 
 1. De gérer un catalogue de produits.
