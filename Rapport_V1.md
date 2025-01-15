@@ -1,4 +1,23 @@
-Audit de la V1
+# Livrable V1:
+
+
+## Base de données:
+
+
+## Scripts SQL:
+
+![mcd](https://github.com/user-attachments/assets/deaa384d-bf74-4d78-9c73-3487e22ae340)
+
+
+
+
+
+
+
+
+
+
+
 
 Ce document est un audit de la V1 de l'application de gestion de stock. Il a pour but de vérifier la conformité de l'application par rapport aux besoins du client et de proposer des améliorations.
 
