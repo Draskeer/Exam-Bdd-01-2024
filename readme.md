@@ -2,9 +2,7 @@
 
 Bonjour,
 
-Vous trouverez dans les branches V1 et V2 les deux versions de l'examen avec toutes les questions et les réponses.
-
-Je vous remercie,
+Veuillez trouver dans les Branches V1 et V2 de ce repository les comptes rendus ainsi que les différentes versions de projet que nous avons produites avec Jules.
 
 Cordialement,
-Jules.
+Tom.
