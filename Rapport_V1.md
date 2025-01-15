@@ -5,17 +5,77 @@
 
 <img width="717" alt="SQL MLD" src="https://github.com/user-attachments/assets/45704530-3ef2-4bd2-aa3e-f45c96e17760" />
 
+### Tables :
+
+1. Product:
+   Id: Int, Clé primaire
+   name: Varchar(255)
+   price: Int
+   quantity: Int
+   category_id: Int, Clé étrangère
+
+   Permet le stockage des données liées au différents produits. PAr la suite un champ description pourrait etre ajouter afin de     donner plus d'informations concernant celui ci.
+
+2. Category:
+   Id: Int, Clé primaire
+   name: Varchar(255)
+
+   Permet de stocker les différentes catégories de produits.
+   
+3. Supplier_product:
+   Id: Int, Clé primaire
+   supplier_id: Int, Clé étrangère
+   product_id: Int, Clé étrangère
+
+   Table de jointure permettant de mettre en relation un produit et un revendeur.
+   
+4. Supplier
+   Id: Int, Clé primaire
+   name: Varchar(255)
+   address: Varchar(255)
+   email: Varchar(255)
+   phone_nb:
+
+   Permet de stocker les informaations concernant les différents revendeurs.
+   
+5. Product_cmd
+   Id: Int, Clé primaire
+   product_id: Int, Clé étrangère
+   command_id: Int, Clé étrangère
+   quantity: Int
+
+   Permet de mettre en relation un élément acheter et la quantitée avec une commande.
+   
+6. Commande:
+    Id: Int, Clé primaire
+    client_id: Int
+    total_price: Int
+    command_date: DateTime
+    expedition_date: DateTime
+    delivery_date: DateTime
+
+    Permet de stocker un historique et le status d'une commande.
+    
+7. Client:
+   Id: Int, Clé primaire
+   name: Varchar(255)
+   age: Int
+   email: Varchar(255)
+   phone_nb: Int
+   address: Varchar(255)
+
+Permet de stocker les informations relative aux clients.
 
 
 
 ## Scripts SQL:
 
 
+Vous trouverez les informations liées aux scripts SQL directement dans les fichiers .sql du répertoire.
 
 
 
-
-
+## API
 
 
 
