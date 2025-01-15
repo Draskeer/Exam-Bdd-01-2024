@@ -3,10 +3,14 @@
 
 ## Base de données:
 
+<img width="717" alt="SQL MLD" src="https://github.com/user-attachments/assets/45704530-3ef2-4bd2-aa3e-f45c96e17760" />
+
+
+
 
 ## Scripts SQL:
 
-![mcd](https://github.com/user-attachments/assets/deaa384d-bf74-4d78-9c73-3487e22ae340)
+
 
 
 
