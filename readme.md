@@ -1,4 +1,4 @@
-Projet base de données B3
+# Projet base de données B3
 
 Ce projet consiste à créer une base de données pour un systeme de commande maquettes d'avions. Afin de verifier le bon fonctionnement et de mettre cette base de données en aplication, il nous faut aussi creer une simple api permettant de gerer la base de données.
 
@@ -13,12 +13,12 @@ La 1ere version est un prototype. La sécurité n'est pas à faire.
 
 # Getting started:
 
-Pour lancer le projet sql :
+## Pour lancer le projet sql :
 
 1. Créer une base de données nommée dans votre serveur MySQL via le script disponible dans le fichier `shema_V1.sql`.
 2. Exécuter le script `row_samples_V1.sql` pour insérer des données dans la base de données.
 
-Pour lancer l'api :
+## Pour lancer l'api :
 
 1. Se rendre dans le dossier `app`.
 2. Installer les dépendances avec `npm install`.
