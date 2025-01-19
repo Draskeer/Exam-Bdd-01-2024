@@ -11,6 +11,10 @@ L'api doit permettre:
 
 La 1ere version est un prototype. La sécurité n'est pas à faire.
 
+Pour plus d'informations concerant le coté technique :
+https://github.com/Draskeer/Exam-Bdd-01-2024/blob/V1/Rapport_V1.md
+
+
 # Getting started:
 
 ## Pour lancer le projet sql :
