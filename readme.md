@@ -12,9 +12,7 @@ Pour cette second version de ce projet, nous allons reprendre la V1 et ajouter d
 
 Pour plus d'information concernant l'api, veuillez trouver une documentation ici:
 
-[https://github.com/Draskeer/Exam-Bdd-01-2024/blob/V2/api_endpoint_v2.md](Documentation API)
-
-
+https://github.com/Draskeer/Exam-Bdd-01-2024/blob/V2/api_endpoint_v2.md
 
 
 # Getting started:
